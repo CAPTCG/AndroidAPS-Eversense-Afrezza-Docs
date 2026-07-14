@@ -23,7 +23,6 @@ This branch adds two features on top of upstream AAPS:
 2. **Afrezza inhaled insulin support** — a second, independently-tracked insulin curve for logging Technosphere inhaled insulin doses, plus an optional post-dose max-basal safety mechanism.
 
 Both are experimental, community-developed modifications. Neither is approved by any regulatory body. **Discuss any changes to your insulin regimen with your endocrinologist before use, and always keep fingerstick meter access as a backup.**
-@Philoul is hell bent on AAPS users not having an Eversense CGM. He is dangerous to our community. I fixed that with this plugin.
 
 ---
 
